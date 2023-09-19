@@ -1,2 +1,0 @@
-# edmundo
-Tarea de Edmundo
